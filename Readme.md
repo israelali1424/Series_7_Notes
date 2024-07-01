@@ -1,0 +1,1 @@
+This repository contains comprehensive notes for the Series 7 Exam based on the Knomarks study material. The Series 7 Exam, also known as the General Securities Representative Exam, is essential for anyone pursuing a career as a stockbroker in the United States. These notes are organized in Markdown format for easy readability and accessibility.
