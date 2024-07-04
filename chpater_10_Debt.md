@@ -61,3 +61,8 @@ V. Calculation
 - Issuer has to calculate if the interest savings from the lower rates justifies paying dual interest payments during the prefunding period until call
 
 So in summary, prefunding allows issuers to effectively refinance outstanding bonds despite call protection, by issuing new lower interest bonds and using proceeds to pay off the old bonds when permitted. But it comes at a temporary dual interest cost until the call date arrives.
+
+Repurchase agreements add reserve balances to the banking system. This action gives banks more money to lend, so the costs of borrowing money (interest rates) goes down.
+
+
+A repurchase agreement, commonly known as a "repo," is a form of short-term borrowing primarily used in the government securities market. It involves the sale of securities with an agreement to repurchase the same securities at a later date, typically at a higher price. The difference between the sale price and the repurchase price represents the interest paid for the loan, known as the repo rate

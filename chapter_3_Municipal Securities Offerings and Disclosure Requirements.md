@@ -45,4 +45,10 @@ C. **Legal Opinion**
     2. Opines on legality of issuance and tax status
     3. Unqualified opinion preferred (no limitations/qualifications)
 
-[End of Notes]
+
+
+The Official Notice of Sale is used for municipal securities offerings. It contains detailed information regarding the bidding procedures for a proposed new issuance of municipal bonds.
+
+The date of sale in a competitive offering is the date on which all bids for the purchase of securities must be submitted to the issuer. In a negotiated sale, this is the date when the final contract to purchase the securities is executed.
+
+The conversion price is the price at which a convertible bond can be converted into shares of the company's stock. The conversion price is set at the time the bond is issued. The conversion ratio equals par value / conversion price. The conversion value is the current value of the bond if it is was converted today. The conversion premium is calculated as the spread between the market price of the convertible bond and the price at which it can be converted, expressed as a percentage.

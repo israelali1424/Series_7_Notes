@@ -76,3 +76,10 @@
 
 ### Conclusion
 By understanding the basics of call and put options, the roles of buyers and sellers, and the types of transactions (opening and closing), you can methodically approach and solve any options question on the Series 7 exam. Practice identifying these transactions and calculating profits or losses to solidify your understanding. With consistent effort and practice, options questions can become a strength rather than a challenge.
+
+**intrinsic value and time value**
+When an option contract is out of the money, the premium of the contract consists of time value only. When an option contract is in the money, the premium will consist of both intrinsic value and time value
+
+The intrinsic value of an option is the inthe-money amount. These calls have
+intrinsic value because the market price
+is greater than the strike price.

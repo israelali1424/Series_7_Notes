@@ -64,4 +64,8 @@ _Overarching Principles:_
 - Requirements based on number of recipients, not content of communication
 - More stringent rules for communications reaching a wider public audience
 
-[End of Study Guide]
+
+The three principles that apply to communication regarding variable products includes- the product being clearly identified as a variable product, the product cannot meet short term liquidity needs, and the communication cannot imply that the guarantee applies to an investment return. Most life insurance products do allow investors to take a loan against their cash balance if needed, which is why this is NOT a variable product communication principle.
+
+
+ At least 40% of a mutual fund?s board of directors must be independent ? meaning that they do not have significant business relationships with the fund.

@@ -41,3 +41,15 @@ VII. Account Actions Upon Death
 - Estate tax may still apply
 
 Let me know if I missed any key details from the lecture.
+**Depreciation**
+An accounting procedure, governed
+by the IRS, that spreads the cost of a
+tangible asset over its useful life.
+Depreciation is the reduction in the
+monetary value of an asset due to
+everyday wear and tear. It is measured
+using specific accounting procedures,
+and in principal the process spreads the
+cost of an asset, such as construction
+equipment or a vehicle, over that asset’s
+useful life, as determined by IRS rules.

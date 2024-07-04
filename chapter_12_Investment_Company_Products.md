@@ -82,6 +82,23 @@ IV. Equity Mutual Fund Types
    - Special Situation Funds: Companies undergoing special circumstances  
    - Index Funds: Passively track an index like S&P 500
 
+ Mutual Fund share types
+   ***Share Classes: A, B, and C**
+   Class A Shares
+   Sales Charge: Upfront sales charge.
+   Breakpoints: Available for reduced sales charges, especially for larger investments.
+   12b-1 Fees: Typically lower.
+   Regulatory View: Favored for long-term ownership.
+   Class B Shares
+   Sales Charge: Back-end sales charge upon redemption.
+   Breakpoints: Not available.
+   Regulatory View: Generally considered less cost-effective for long-term ownership compared to Class A shares.
+   Class C Shares
+   Sales Charge: Level load assessed annually.
+   Breakpoints: Not available.
+   Regulatory View: Generally, Class A shares are prioritized for long-term ownership.
+   All share classes incur 12b-1 fees, with Class A shares often having the lowest. Regulators often advocate for Class A shares due to their cost-effectiveness for long-term investors.
+
 The notes cover the structures, pricing, share classes and different investment objectives/styles of mutual funds and other pooled investments. Let me know if you need any clarification or have additional points to summarize.
 
 Based on the notes, here are the key details on the different types of mutual funds and investment company products covered:
