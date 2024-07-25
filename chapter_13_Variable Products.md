@@ -224,3 +224,6 @@
   - Paid to the insured’s estate: Typically taxable.
 
 Understanding these concepts can help ensure appropriate recommendations and compliance with regulatory requirements when dealing with variable annuities and life insurance policies.
+
+**Life Insurcance medical underwriting** 
+Life insurance company profitability depends on accurately assessing how long appliants can be expected to live, which is mainly a function of their health, medical histories and lifestyle habits (especially smoking). The process through which companies acquire and evaluate this information is called medical underwriting. It determines the rating class they can offer, which in turn sets the policy cost (premium). In some cases, the company may reject the applicant due to poor health.

@@ -49,3 +49,6 @@ IV. Warrants
 V. ADRs
 - Taxed in same manner as U.S. stocks for capital gains and dividends
 - Foreign country may withhold taxes on dividends paid, for which U.S. holder gets a tax credit
+
+**dividend Taxation**
+To obtain qualified dividend status on a common stock, the stock must be held for more than 60 days during the 121-day period surrounding the ex-dividend date. Since didn't hold the stock for 60 days the dividend will be taxed as nonqualified, at the same rate as ordinary income.

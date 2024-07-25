@@ -53,3 +53,13 @@ and in principal the process spreads the
 cost of an asset, such as construction
 equipment or a vehicle, over that asset’s
 useful life, as determined by IRS rules.
+
+**Reg T**
+Regulation T (Reg T) is a set of rules established by the Federal Reserve Board that governs the amount of credit that brokerage firms and dealers can extend to customers for the purchase of securities. One of the key aspects of Reg T is the settlement period for securities transactions, commonly referred to as T+3.
+
+Key Points
+What is Reg T?
+Definition: Reg T regulates the extension of credit by brokers and dealers to their customers for purchasing securities.
+Purpose: To maintain the financial integrity of the securities markets and protect both customers and brokerage firms.
+
+Wha

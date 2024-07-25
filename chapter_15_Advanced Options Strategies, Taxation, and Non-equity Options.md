@@ -454,6 +454,9 @@ This study guide covers the fundamentals of non-equity options, which are option
   - **Example**: If the S&P 500 closes at 3750 and the strike price is 3500, the profit is (3750 - 3500) x 100 = $25,000.
 - **VIX Index**: Measures expected market volatility. Higher VIX indicates increased market fear and expected market decline.
 
+**VIX Index**
+The VIX is an estimate of volatility for the next 30 days, The moves of the VIX track prices on the SPX options market, not the general stock market. The SPX options market is big, with a value greater than $100 billion, dominated by institutional investors. Generally options premiums move inversely to the market. In a rising market, stock prices tend to be less volatile and option premiums low, resulting in a lower VIX. Declining markets are volatile, and option premiums increase and result in a higher VIX. An old saying sums up this market behavior: the market takes the stairs up and the elevator down.
+
 ## FX Options
 
 - **Use Cases**: Hedging currency exposure for businesses, speculation on currency movements.
@@ -492,11 +495,13 @@ This study guide covers the fundamentals of non-equity options, which are option
 ## Conclusion
 
 Non-equity options provide valuable tools for hedging and speculation beyond traditional stock options. Understanding the unique characteristics and settlement methods of index, FX, and interest rate options is crucial for effectively using these financial instruments. This guide highlights key concepts, examples, and scenarios to help deepen your understanding of non-equity options.
+
 ### Options and Loan Value
 
 Loan value refers to the amount of money a broker-dealer can lend to a customer to purchase options. Here are the key points regarding loan value for various types of options contracts:
 
 1. **Standard Options Contracts**:
+
    - No loan value.
    - Customers must deposit the entire premium amount to purchase the contract.
 
@@ -513,7 +518,7 @@ Loan value refers to the amount of money a broker-dealer can lend to a customer 
 ### Example Calculation: Required Cash Deposit for Options Purchase
 
 - If a customer goes long on one ABC September 30 call at a $5 premium:
-  - Total cost: $5 (premium) * 100 shares = $500.
+  - Total cost: $5 (premium) \* 100 shares = $500.
   - Required cash deposit: $500 (no loan value).
 
 ### Adjustments to Options Contracts Due to Corporate Actions
@@ -521,6 +526,7 @@ Loan value refers to the amount of money a broker-dealer can lend to a customer 
 Corporate actions such as stock splits, stock dividends, and rights offerings can necessitate adjustments to options contracts to maintain economic value. Here’s how different actions impact options:
 
 1. **Stock Splits**:
+
    - **Even Splits** (e.g., 2-for-1, 3-for-1):
      - Adjust the number of contracts and the strike price.
      - E.g., a 2-for-1 split changes one 50 strike call to two 25 strike calls.
@@ -529,6 +535,7 @@ Corporate actions such as stock splits, stock dividends, and rights offerings ca
      - E.g., a 3-for-2 split changes one 50 strike call (100 shares) to one 33.33 strike call (150 shares).
 
 2. **Stock Dividends**:
+
    - Treated similarly to odd splits.
    - Adjust the number of shares per contract and the strike price based on the dividend ratio.
 
@@ -538,6 +545,7 @@ Corporate actions such as stock splits, stock dividends, and rights offerings ca
 ### Calculation Examples for Adjustments
 
 1. **Even Split Example**:
+
    - Original: One Delta 50 call (100 shares).
    - After a 2-for-1 split: Two Delta 25 calls (each for 100 shares).
    - Contract value remains the same (e.g., $5,000).
@@ -550,10 +558,12 @@ Corporate actions such as stock splits, stock dividends, and rights offerings ca
 ### Key Points to Remember
 
 - **Even Splits**:
+
   - Adjust the number of contracts and the strike price.
   - Number of shares per contract remains the same.
 
 - **Odd Splits/Stock Dividends**:
+
   - Adjust the number of shares per contract and the strike price.
   - Number of contracts remains the same.
 
@@ -565,6 +575,7 @@ Corporate actions such as stock splits, stock dividends, and rights offerings ca
 **1. Expiration of Options:**
 
 - **Writer of Option (Seller):**
+
   - **Gain**: Short-term capital gain in the form of the premium collected.
 
 - **Buyer of Option:**
@@ -587,11 +598,13 @@ Corporate actions such as stock splits, stock dividends, and rights offerings ca
 ### Numerical Examples:
 
 1. **Bob buys an ABC 50 Call for $4 from Sam.**
+
    - **If the Option Expires:**
      - Bob: $400 short-term capital loss.
      - Sam: $400 short-term capital gain.
 
 2. **If the Position is Closed:**
+
    - **Closed at $1:**
      - Bob: $300 short-term capital loss.
      - Sam: $300 short-term capital gain.
@@ -621,9 +634,11 @@ Corporate actions such as stock splits, stock dividends, and rights offerings ca
 ### Protective Puts and Holding Period:
 
 1. **Stock Already Long-Term:**
+
    - **Holding Period Remains Long-Term**: Protective put does not affect it.
 
 2. **Stock Short-Term, Buying a Put:**
+
    - **Resets Holding Period to Zero**: Holding period resets even if the stock had been held for some months.
 
 3. **Married Puts (Bought on the Same Day):**
@@ -644,9 +659,7 @@ Corporate actions such as stock splits, stock dividends, and rights offerings ca
 3. **Long 45 Call, Sell Put**: **Incorrect (Synthetic Long, not Short Straddle)**.
 4. **Long 45 Call, Long 45 Put**: Long Straddle (Correct).
 
-
-
-Video 4 
+Video 4
 
 # Options Strategies and Concepts
 
@@ -659,19 +672,23 @@ A collar is an options strategy that involves three positions:
 3. Short out-of-the-money call
 
 ### How it works:
+
 - Provides downside protection while retaining limited upside potential
 - Allows for a low net cost
 
 ### Example:
+
 - Own 100 shares of XYZ at $50
 - Buy XYZ 45 put at $2
 - Sell XYZ 55 call at $1.75
 
 ### Benefits:
+
 - Limits downside risk (to $45 in this case)
 - Reduces the cost of protection (net cost of $0.25 per share)
 
 ### Drawbacks:
+
 - Limits upside potential (to $55 in this case)
 
 ## 2. Straddle
@@ -681,10 +698,12 @@ A straddle involves options with the same strike price and expiration date.
 ### Long Straddle
 
 Components:
+
 - Long call
 - Long put
 
 Characteristics:
+
 - Profits from significant price movements in either direction
 - Requires a large move to overcome the cost of both premiums
 - Unlimited maximum gain potential
@@ -693,16 +712,19 @@ Characteristics:
 ### Short Straddle
 
 Components:
+
 - Short call
 - Short put
 
 Characteristics:
+
 - Profits when the stock price remains relatively stable
 - Maximum gain occurs when the stock price equals the strike price at expiration
 - Unlimited potential loss
 - Limited gain (premiums received)
 
 ### Example:
+
 - Long Straddle: Buy May Coca-Cola 65 call and 65 put for a total premium of $8
 - Profitable when Coca-Cola stock price < $57 or > $73
 - Short Straddle: Sell the same options, profitable when stock price is between $57 and $73
@@ -712,9 +734,11 @@ Characteristics:
 A combination is similar to a straddle but with different strike prices.
 
 ### Short Combination
+
 - Short call and short put with different strike prices
 
 ### Long Combination
+
 - Long call and long put with different strike prices or different expiration months
 
 ## 4. Spread
@@ -722,6 +746,7 @@ A combination is similar to a straddle but with different strike prices.
 A spread involves two options of the same type (calls or puts) with different strike prices.
 
 ### Example: Debit Call Spread
+
 - Long 50 call
 - Short 60 call
 - Net debit position (pay more for the long call than received for the short call)
@@ -729,10 +754,12 @@ A spread involves two options of the same type (calls or puts) with different st
 ## 5. Synthetic Long Position
 
 Components:
+
 - Long call
 - Short put (same strike and expiration)
 
 Characteristics:
+
 - Mimics the payoff of owning the underlying stock
 - Provides dollar-for-dollar exposure to stock price movements
 
@@ -742,7 +769,8 @@ Characteristics:
 - When analyzing options strategies, it's crucial to consider breakeven points, maximum gain/loss potential, and market outlook.
 - Options strategies can be used for various purposes, including hedging, income generation, and speculative trading.
 
-Video 5 
+Video 5
+
 # Options Concepts: Loan Value and Contract Adjustments
 
 ## 1. Loan Value
@@ -750,19 +778,24 @@ Video 5
 Loan value refers to the percentage of the purchase amount (premium) that a broker-dealer can lend to a customer to buy an option.
 
 ### Standard Options Contracts
+
 - Loan value: 0%
 - Broker-dealers cannot lend money to pay for the premium
 
 ### LEAP Contracts (Long-Term Equity Anticipation Securities)
+
 - Loan value: Up to 25% of the premium
 - Loan must be repaid when contract reaches 9 months to expiration
 - Expiration dates can stretch up to 3 years
 
 ### Comparison with Stock Margin
+
 - Standard stock margin (Reg T): 50% loan value
 
 ### Example:
+
 Customer goes long 1 ABC September 30 call at $5
+
 - Required cash deposit: $500 (100 shares × $5 premium)
 - No loan value available for standard options
 
@@ -771,41 +804,50 @@ Customer goes long 1 ABC September 30 call at $5
 Options contracts may need adjustment when the underlying stock undergoes corporate actions to maintain economic equivalence.
 
 ### Events Requiring Adjustment
+
 1. Forward stock split
 2. Reverse stock split
 3. Stock dividend
 4. Rights offering
 
 ### Events Not Requiring Adjustment
+
 - Ordinary cash dividends
 
 ### Types of Splits
 
 #### Even Splits
+
 - Ratio ends in ":1" (e.g., 2:1, 3:1, 5:1)
 - Easier to adjust: create new 100-share contracts and revise strike price
 
 #### Uneven (Odd) Splits
+
 - Ratio doesn't end in ":1" (e.g., 3:2, 5:4)
 - More complex: adjust existing option with new number of shares and strike price
 
 ### Adjustment Process
 
 #### Even Split Example: 2:1 Split
+
 Before split: 1 Delta $50 call
 After split: 2 Delta $25 calls
 
 Adjustments:
+
 - Number of contracts: Multiplied by split ratio (1 × 2 = 2)
 - Shares per contract: Unchanged (100)
 - Strike price: Divided by split ratio ($50 ÷ 2 = $25)
 
 Graph: Even Split Adjustment
+
 #### Uneven Split Example: 3:2 Split
+
 Before split: 1 Delta $50 call
 After split: 1 Delta $33.33 call
 
 Adjustments:
+
 - Number of contracts: Unchanged
 - Shares per contract: Multiplied by split ratio (100 × 3/2 = 150)
 - Strike price: Multiplied by inverse of split ratio ($50 × 2/3 ≈ $33.33)
@@ -814,17 +856,20 @@ Graph: Uneven Split Adjustment
 
 ![Options Spilt update](./photos/Options_Spilt_Graph.png)
 
-Video 6 
+Video 6
+
 # Options Tax Implications
 
 ## 1. Option Expiration
 
 ### For Option Writers (Sellers)
+
 - Result: Short-term capital gain
 - Amount: Premium collected
 - Timing: Recognized in the expiration month
 
 ### For Option Buyers
+
 - Result: Capital loss (can be short-term or long-term)
 - Amount: Premium paid
 - Timing: Recognized in the expiration month
@@ -840,11 +885,14 @@ Video 6
 ## 3. Option Exercise
 
 ### General Rule
+
 - Taxes are deferred until the stock position is closed
 - Adjust either proceeds or basis by the option premium amount
 
 ### Adjustment Rules
+
 1. Adjust Proceeds:
+
    - Long Put (right to sell)
    - Short Call (obligation to sell)
 
@@ -857,9 +905,11 @@ Mnemonic: "Buyers adjust basis"
 ### Examples
 
 #### Call Option Exercise
+
 Bob buys 1 ABC 50 call for $4, exercises when market value is $57
 
 1. Bob (call buyer):
+
    - Adjusted cost basis: $54 ($50 strike + $4 premium)
    - If sold immediately at $57:
      - Proceeds: $57
@@ -875,9 +925,11 @@ Bob buys 1 ABC 50 call for $4, exercises when market value is $57
      - Result: $3 short-term capital loss
 
 #### Put Option Exercise
+
 Jane buys 1 XYZ 35 put for $2, exercises when market value is $28
 
 1. Jane (put buyer):
+
    - Adjusted proceeds: $33 ($35 strike - $2 premium)
    - Basis: $28 (market price)
    - Result: $5 short-term capital gain
@@ -892,10 +944,13 @@ Jane buys 1 XYZ 35 put for $2, exercises when market value is $28
 ## 4. Protective Puts and Holding Periods
 
 ### Scenarios:
+
 1. Stock already long-term when put is purchased:
+
    - Stock remains long-term regardless of put
 
 2. Stock is short-term when put is purchased:
+
    - Stock's holding period resets to zero
 
 3. Stock and put purchased on the same day (Married Put):
@@ -905,7 +960,9 @@ Jane buys 1 XYZ 35 put for $2, exercises when market value is $28
 ## 5. Additional Examples
 
 ### Short Put Exercise
+
 Customer sells 1 ABC 60 put at $5, exercised when market value is $52
+
 - Effective cost basis: $55 ($60 strike - $5 premium)
 - If sold at $52:
   - Proceeds: $52
@@ -913,13 +970,76 @@ Customer sells 1 ABC 60 put at $5, exercised when market value is $52
   - Result: $3 short-term capital loss
 
 ### Long Call Exercise and Immediate Sale
+
 Customer buys 1 ABC call at $4, exercised at $75 strike when ABC is at $90
+
 - Proceeds: $90 (market price)
 - Adjusted basis: $79 ($75 strike + $4 premium)
 - Result: $11 short-term capital gain
 
 ### Long Call Exercise and Delayed Sale
+
 Customer buys 1 XYZ 20 call at $4, exercises at expiration, sells 6 months later at $40
+
 - Proceeds: $40
 - Adjusted basis: $24 ($20 strike + $4 premium)
 - Result: $16 short-term capital gain (held less than 1 year after exercise)
+
+![Options Spilt update](./photos/Options_Taxes.png)
+
+
+# Call Spreads: Debit and Credit
+
+Call spreads are options strategies involving two call options on the same underlying asset with the same expiration date but different strike prices. There are two types: debit call spreads and credit call spreads.
+
+## Debit Call Spread
+
+Also known as a bull call spread or long call spread.
+
+### Structure:
+1. Buy a call option with a lower strike price
+2. Sell a call option with a higher strike price
+
+### Key Characteristics:
+- Net debit to enter the position (hence the name)
+- Limited profit potential
+- Limited risk
+
+### Example:
+- Buy 1 XYZ 50 call for $5
+- Sell 1 XYZ 55 call for $2
+- Net debit: $3 ($5 - $2)
+
+### Maximum Profit:
+Difference between strike prices minus net debit
+(55 - 50) - 3 = $2 per share
+
+### Maximum Loss:
+Limited to the net debit paid ($3 per share)
+
+### Breakeven Point:
+Lower strike price plus net debit
+50 + 3 = $53
+
+### When to Use:
+- Moderately bullish outlook
+- Want to reduce cost of buying a call option
+- Willing to cap potential profits for reduced risk
+
+## Credit Call Spread
+
+Also known as a bear call spread or short call spread.
+
+### Structure:
+1. Sell a call option with a lower strike price
+2. Buy a call option with a higher strike price
+
+### Key Characteristics:
+- Net credit received when entering the position
+- Limited profit potential
+- Limited risk
+
+### Example:
+- Sell 1 XYZ 50 call for $5
+- Buy 1 XYZ 55 ca
+

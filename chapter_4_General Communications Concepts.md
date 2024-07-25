@@ -25,6 +25,7 @@ _Three Categories of Communications & Requirements:_
 - Definition: Any written communication distributed to 25 or fewer retail clients/investors within a 30-day period
 - Does NOT require principal pre-approval
 - Examples: Individual emails, individual posts on online bulletin boards
+-Subject to review by Principal
 
 **III. Institutional Communications**
 
