@@ -126,3 +126,36 @@ Fundamental analysis evaluates a company's intrinsic value based on financial st
 This overview covers key topics crucial for the Series 7 exam, emphasizing transaction types, regulatory responsibilities, and record retention guidelines. If you have specific questions or need further details on any of these areas, feel free to ask!
 
 
+
+
+Sure, here is the combined information in bullet point format using Markdown:
+
+- **Depreciation Expenses**
+  - Typically scheduled over several years corresponding to the useful life of each of the company's respective asset classes.
+  
+- **Straight-Line Depreciation Method**
+  - Assumes a uniform depreciation expense over the estimated useful life of an asset.
+  - Example:
+    - Asset purchased for $100 million.
+    - Determined to have a ten-year useful life with no salvage value.
+    - Annual depreciation expense: $10 million per year for ten years.
+
+- **Accelerated Depreciation Methods**
+  - Assume that an asset loses most of its value in the early years of its life.
+  - Allows for greater deductions earlier on.
+  - Examples:
+    - **Modified Accelerated Cost Recovery System (MACRS)**
+      - Primary method of accelerated depreciation used in the United States.
+      - Assets are categorized into different classes with predetermined depreciation periods and schedules.
+      - Combines declining balance methods and straight-line methods.
+      - Depreciation rates are higher in the earlier years of an asset's life, tapering off in later years.
+      - Provides tax benefits by allowing larger depreciation deductions early on, reducing taxable income more significantly in the initial years.
+    - **Double Declining Balance Method**
+      - Applies a constant rate of depreciation to the declining book value of the asset each year.
+      - The rate is typically double the straight-line depreciation rate.
+      - Example:
+        - If an asset has a ten-year useful life, the straight-line rate is 10%, and the double declining balance rate would be 20%.
+      - Depreciation expense is highest in the first year and decreases each subsequent year.
+
+      **What is a blance sheet**
+      The balance sheet provides an overview of the assets (as well as liabilities and shareholders' equity) of a company at a given point in time, as opposed to for a given time period. As such, when analyzing a company's balance sheet, the various financial line items are "as of" a given point in time (e.g., "as of September 30, 2010"). The income statement provides the net income or "bottom line" for a company for a given time period (e.g., for the quarter, year-to-date, or year-end period).

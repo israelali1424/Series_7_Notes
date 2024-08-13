@@ -52,3 +52,14 @@ V. ADRs
 
 **dividend Taxation**
 To obtain qualified dividend status on a common stock, the stock must be held for more than 60 days during the 121-day period surrounding the ex-dividend date. Since didn't hold the stock for 60 days the dividend will be taxed as nonqualified, at the same rate as ordinary income.
+
+
+An investor may use up to $3,000 per
+year of net capital losses to reduce
+ordinary income. Note that there is no
+limit to the amount of capital losses than
+can be used to offset capital gains.
+
+- **Tender Offer for Common Stock:**
+  - If an investor is participating in a tender offer for a company’s common stock, they **may not** purchase common shares of the same issuer in the open market during the tender period.
+  - The investor **is allowed** to purchase non-convertible securities of the issuer during the tender period.

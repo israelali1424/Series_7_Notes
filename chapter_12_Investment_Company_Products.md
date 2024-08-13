@@ -125,3 +125,26 @@ Naming Requirements:
 - A fund must have at least 80% of its assets invested in the type of securities suggested by its name (e.g. money market instruments for a money market fund)
 
 The notes cover the objectives, holdings, risks, tax implications and other key characteristics of the different categories of mutual funds and pooled investments.
+
+
+
+Exchanges or conversions allow investors to exchange shares of one fund for an equivalent investment in another fund of the same family. There are no redemption fees on the redeemed shares or sales charges on the new shares. However, the exchange is a taxable event, and any gain or loss must be reported. The number of exchanges in a year may also be limited.
+
+- **Real Estate Investment Trust (REIT) Distributions:**
+  - Subject to regular income tax.
+
+- **Ordinary Cash Dividends (Common or Preferred Shares):**
+  - May be subject to regular tax liability depending on the holding period surrounding the ex-dividend date.
+  - If shares are held for at least 61 of the 121-day period surrounding the ex-dividend date, dividends received are taxable at a preferred rate.
+
+- **Section 529 Plan Distributions:**
+  - Not taxed if used for qualified educational expenses.
+
+- **Dividends Paid to a Corporation:**
+  - Taxed at a preferred rate depending on the level of ownership the company has in the business.
+
+
+may not be combined with the
+holdings of the three existing
+funds for breakpoint
+considerations.

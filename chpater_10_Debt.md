@@ -66,3 +66,10 @@ Repurchase agreements add reserve balances to the banking system. This action gi
 
 
 A repurchase agreement, commonly known as a "repo," is a form of short-term borrowing primarily used in the government securities market. It involves the sale of securities with an agreement to repurchase the same securities at a later date, typically at a higher price. The difference between the sale price and the repurchase price represents the interest paid for the loan, known as the repo rate
+
+
+- **Equity-Linked Notes (ELNs):**
+  - Typically issued by an investment bank as a form of debt security.
+  - **Principal Protection:** Offers protection of the principal amount invested.
+  - **Payouts:** Based on the performance of an underlying security or index.
+  - **Credit Quality:** Payouts also depend on the credit quality of the issuer.

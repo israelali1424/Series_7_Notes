@@ -79,3 +79,28 @@ These concepts should give you a solid foundation for understanding how differen
 ---
 
 These notes summarize key concepts from Unit 4, Chapter 19, focusing on trade execution, order handling, regulatory requirements, and client responsibilities.
+
+In general, broker-dealers are required
+to route customer orders to the market
+center providing the best price, but a
+customer may specify that they want
+their order routed to a particular
+exchange. The firm must honor such a
+request
+
+
+If an investor sells stock short, Reg SHO
+requires the customer to locate the
+securities. The customer can locate by
+either borrowing the securities, or by
+relying on the available securities list.
+Absence from a "hard-to-borrow" list, is
+not sufficient to satisfy the locate
+requirement.
+
+This is the primary objective of
+Regulation NMS. NMS means National
+Market System. It was established in
+2005 to foster competition among
+markets and among individual client
+orders.

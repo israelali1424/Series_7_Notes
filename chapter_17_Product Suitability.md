@@ -69,6 +69,16 @@ Asset allocation is the distribution of a portfolio across stocks, bonds, and ca
      - Measure of returns exceeding expected risk-adjusted returns.
      - Alpha indicates a manager's ability to outperform given the risk taken.
 
+| **Measure**   | **Value**           | **Meaning**                                                                 |
+|---------------|---------------------|------------------------------------------------------------------------------|
+| **Beta**      | 1                   | Security's price moves with the market (equal volatility).                   |
+|               | > 1                 | Security is more volatile than the market.                                   |
+|               | < 1                 | Security is less volatile than the market.                                   |
+| **Alpha**     | 1                   | Security outperformed by 1% on a risk-adjusted basis.                        |
+|               | > 0                 | Security outperformed expectations given the risk.                           |
+|               | < 0                 | Security underperformed expectations given the risk.                         |
+
+
 
 ### Suitability Review Questions
 
@@ -159,3 +169,10 @@ Asset allocation is the distribution of a portfolio across stocks, bonds, and ca
 **Answer:** **D** - 40% zero coupons, 10% options, 50% large-cap equity.
 
 Notes made all by chatgpt 
+
+
+- **Laddered Portfolio:**
+  - **Definition:** A portfolio containing a group of bonds with different maturity dates.
+  - **Purpose:** Provides a continuous stream of funds from maturing bonds.
+  - **Reinvestment:** Cash received from maturing bonds can be reinvested in new bonds at current interest rates.
+  - **Credit Risk:** This structure alleviates credit risk concerns, as only a portion of the overall portfolio is exposed to the risk of default from any single issuer.

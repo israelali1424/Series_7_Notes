@@ -83,3 +83,11 @@ When an option contract is out of the money, the premium of the contract consist
 The intrinsic value of an option is the inthe-money amount. These calls have
 intrinsic value because the market price
 is greater than the strike price.
+
+
+**Sales Processds**
+The sales proceeds upon the exercise of a put option is found by subtracting the premium paid for the put option from the strike price of the put. In this case, the sales proceeds are 16.50 per share.
+
+- The number of shares outstanding for a common stock does not determine whether the option will be **in the money**.
+- The value of the option is determined by the relationship between the strike price and the market value of the stock.
+- Additionally, the longer the time until expiration, the greater the chance of the option coming **in the money**.

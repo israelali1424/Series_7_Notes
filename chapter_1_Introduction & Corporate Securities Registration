@@ -1,122 +1,136 @@
-*NotesGPT Mode Activated*
+_NotesGPT Mode Activated_
 
 **Corporate Securities Registration and Disclosure**
 
 - **Primary Market**
-    - Companies/issuers raising capital by selling securities
-    - Governed by **Securities Act of 1933**
-        - Registration process or use of exemptions (Reg A, Reg D, etc.)
+
+  - Companies/issuers raising capital by selling securities
+  - Governed by **Securities Act of 1933**
+    - Registration process or use of exemptions (Reg A, Reg D, etc.)
 
 - **Registration Process - 3 Stages**
-    1. **Pre-Registration**
-        - Due diligence by investment bankers, lawyers, accountants
-        - Preparation of disclosure documents
-    2. **Cooling Off/Marketing Period** 
-        - Communication with potential investors
-        - Determination of final offering price
-    3. **Post-Effective Period**
-        - Securities can be sold after SEC approval
+
+  1. **Pre-Registration**
+     - Due diligence by investment bankers, lawyers, accountants
+     - Preparation of disclosure documents
+  2. **Cooling Off/Marketing Period**
+     - Communication with potential investors
+     - Determination of final offering price
+  3. **Post-Effective Period**
+     - Securities can be sold after SEC approval
 
 - **Prospectus**
-    - Core disclosure document detailing newly registered securities
-    - Used for corporate stocks (IPOs, follow-ons), bonds, etc.
+
+  - Core disclosure document detailing newly registered securities
+  - Used for corporate stocks (IPOs, follow-ons), bonds, etc.
 
 - **Summary Prospectus**
-    - Condensed version used for continuously offered **mutual funds**
-    
+  - Condensed version used for continuously offered **mutual funds**
+- **Free Writing Prospectus**
+  A free writing prospectus is used by an issuer to provide additional, updated information to investors beyond what the registration or prospects contains, with the goal being to provide investors with pertinent updates without having to amend their registration statement or prospectus.
+
 - **Trust Indenture**
-    - Document with covenants/promises by bond issuer to trustee
-        - E.g. make interest payments, maintain adequate filings
+
+  - Document with covenants/promises by bond issuer to trustee
+    - E.g. make interest payments, maintain adequate filings
 
 - **Follow-On Bond Offering Process**
-    1. Company goes public initially 
-    2. Files **S-3 shelf registration** (updated every 3 years)
-    3. Issues corporate bonds (> **$50 million** required for trust indenture)
-    4. Underwriters include **selling group** to increase marketability
-    5. Bonds registered under state **blue sky laws**
+  1. Company goes public initially
+  2. Files **S-3 shelf registration** (updated every 3 years)
+  3. Issues corporate bonds (> **$50 million** required for trust indenture)
+  4. Underwriters include **selling group** to increase marketability
+  5. Bonds registered under state **blue sky laws**
 
-*NotesGPT Mode Activated*
+_NotesGPT Mode Activated_
 
 **Corporate Securities Registration and Disclosure**
 
 - **Primary Market**
-    - Companies/issuers raising capital by selling securities
-    - Governed by **Securities Act of 1933**
-        - Registration process or use of exemptions
+
+  - Companies/issuers raising capital by selling securities
+  - Governed by **Securities Act of 1933**
+    - Registration process or use of exemptions
 
 - **Registration Process - 3 Stages**
-    1. **Pre-Registration Period**
-        - Due diligence by investment bankers, lawyers, accountants  
-        - Preparation of disclosure documents like prospectus
-    2. **Cooling Off/Waiting Period**
-        - Communication with potential investors about offering
-        - Determining final offering price
-    3. **Post-Effective Period**
-        - Securities can be sold after SEC approval
+
+  1. **Pre-Registration Period**
+     - Due diligence by investment bankers, lawyers, accountants
+     - Preparation of disclosure documents like prospectus
+  2. **Cooling Off/Waiting Period**
+     - Communication with potential investors about offering
+     - Determining final offering price
+  3. **Post-Effective Period**
+     - Securities can be sold after SEC approval
 
 - **Prospectus**
-    - Core disclosure document with details on newly registered securities
-    - Used for corporate stocks (IPOs, follow-ons), bonds, etc.
+
+  - Core disclosure document with details on newly registered securities
+  - Used for corporate stocks (IPOs, follow-ons), bonds, etc.
 
 - **Summary Prospectus**
-    - Abbreviated version for continuously offered mutual funds
+
+  - Abbreviated version for continuously offered mutual funds
 
 - **Trust Indenture**
-    - Bond document with covenants/promises by issuer to trustee
-    - E.g. make interest payments, maintain filings, etc.  
+
+  - Bond document with covenants/promises by issuer to trustee
+  - E.g. make interest payments, maintain filings, etc.
 
 - **Follow-On Bond Offering Process**
-    1. Company previously went public
-    2. Files **S-3 shelf registration** (updated every 3 years)
-    3. Issues corporate bonds (>**$50 million** for trust indenture) 
-    4. Underwriters use **selling group** to increase marketability
-    5. Bonds registered under state **blue sky laws**
+  1. Company previously went public
+  2. Files **S-3 shelf registration** (updated every 3 years)
+  3. Issues corporate bonds (>**$50 million** for trust indenture)
+  4. Underwriters use **selling group** to increase marketability
+  5. Bonds registered under state **blue sky laws**
 
 **Exempt Securities and Disclosure Concepts**
 
 - **Regulation A (Reg A+)**
-    - For small businesses
-    - Maximum raise: $20 million - $75 million
-    - Once every 12 months  
-    - **Offering Circular** disclosure instead of prospectus
-    - Risks: Speculative, illiquid
+
+  - For small businesses
+  - Maximum raise: $20 million - $75 million
+  - Once every 12 months
+  - **Offering Circular** disclosure instead of prospectus
+  - Risks: Speculative, illiquid
 
 - **Regulation D (Reg D) - Private Placements**
-    - Sales to **accredited investors**
-        - **Accredited** defined as:
-            - High Income: >$200K single, >$300K married (last 2 years) 
-            - High Net Worth: >$1M excluding primary residence
-            - Directors/executives of issuer
-            - Broker-dealers, investment advisers
-            - Institutions with >$5M assets
-            - Individuals who can assess investment opportunity
-                - Hold Series 7, 65 or 82 licenses
-                - "Knowledgeable employees" of private fund  
-    - Max 35 non-accredited investors
+
+  - Sales to **accredited investors**
+    - **Accredited** defined as:
+      - High Income: >$200K single, >$300K married (last 2 years)
+      - High Net Worth: >$1M excluding primary residence
+      - Directors/executives of issuer
+      - Broker-dealers, investment advisers
+      - Institutions with >$5M assets
+      - Individuals who can assess investment opportunity
+        - Hold Series 7, 65 or 82 licenses
+        - "Knowledgeable employees" of private fund
+  - Max 35 non-accredited investors
 
 - **Rule 144 - Control & Restricted Stock**
-    - **Control Stock:** Held by insiders/affiliates
-        - Volume trading limits apply 
-    - **Restricted Stock:** Unregistered securities
-        - 6 month holding if issuer public & making disclosures
-    - Both conditions apply for control & restricted stock
 
-- **Rule 144A - Qualified Institutional Buyers (QIBs)**  
-    - Unlimited capital raising frequency
-    - **QIBs** defined as:
-        - >$100M discretionary assets
-    - Securities typically unregistered & less liquid
+  - **Control Stock:** Held by insiders/affiliates
+    - Volume trading limits apply
+  - **Restricted Stock:** Unregistered securities
+    - 6 month holding if issuer public & making disclosures
+  - Both conditions apply for control & restricted stock
+
+- **Rule 144A - Qualified Institutional Buyers (QIBs)**
+
+  - Unlimited capital raising frequency
+  - **QIBs** defined as:
+    - > $100M discretionary assets
+  - Securities typically unregistered & less liquid
 
 - **Crowdfunding**
-    - Small businesses can raise up to $5M
-    - Investment limits based on accreditation:
-        - Accredited (per Reg D): Unlimited
-        - Non-accredited:
-            - <$107K income/net worth: $2,200 or 5% (greater)
-            - >$107K income/net worth: 10%, max $107K
+  - Small businesses can raise up to $5M
+  - Investment limits based on accreditation:
+    - Accredited (per Reg D): Unlimited
+    - Non-accredited:
+      - <$107K income/net worth: $2,200 or 5% (greater)
+      - > $107K income/net worth: 10%, max $107K
 
 [End of Notes]
-
 
 Exempt transactions under the Securities Act of 1933 are crucial for certain entities to raise capital without undergoing the full registration process. These exemptions allow issuers to sell securities without registering them with the Securities and Exchange Commission (SEC), which can save time and resources. However, these exemptions come with specific conditions and limitations to protect investors.
 
@@ -135,3 +149,13 @@ Let's delve into some of the key exemptions you mentioned:
 5. **Regulation S (Reg S)**: Reg S provides an exemption for offers and sales of securities made outside the United States, primarily targeting offshore investors. It's important for companies seeking to raise capital internationally while complying with U.S. securities laws.
 
 Remembering these exemptions and their purposes is crucial for issuers and investors alike, as they provide avenues for capital raising while ensuring compliance with securities regulations.
+
+
+
+| **Type of Prospectus**            | **Description**                                                                                          |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Statutory Prospectus**          | The primary document provided to potential investors that contains detailed information about the investment, including the business, financials, risks, and management. Required by the SEC for mutual funds and other registered securities. |
+| **Summary Prospectus**            | A condensed version of the statutory prospectus that highlights key information about the investment. It is designed to be a more accessible introduction to the investment, with more detailed information available in the statutory prospectus. |
+| **Statement of Additional Information (SAI)** | A supplementary document that provides additional details not included in the statutory prospectus, such as the fund’s operations, policies, and management. It must be made available upon request. |
+| **Free-Writing Prospectus (FWP)** | An informal, supplemental document used to provide additional information about a securities offering. It can be distributed in various formats, such as electronic media or printed material, and is used to communicate updates or enhancements to the offering. |
+| **Preliminary Prospectus (Red Herring)** | A draft version of the prospectus that is filed with the SEC before the final version is approved. It contains most of the same information as the final prospectus but may be missing some details and will include a disclaimer about the offering's status. |

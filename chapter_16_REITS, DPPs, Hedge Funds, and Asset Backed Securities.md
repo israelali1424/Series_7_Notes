@@ -205,3 +205,21 @@ For Collateralized Mortgage Obligations (CMO):
     - **Extension risk**
     - Explanation: Higher interest rates lead to fewer mortgage prepayments, extending the life of the CMO tranches.
 
+
+- **Standing Discretion and Nontraditional Instruments:**
+  - A registered representative **may not** use standing discretion to purchase nontraditional instruments in a customer account.
+  - **Nontraditional Instruments:** Includes products such as direct participation programs (DPPs) and other complex or alternative investments.
+  - **Suitability Standards:** Due to heightened suitability standards for these products, the client **must provide advance written consent** before purchasing them.
+
+
+- **Business Development Company (BDC):**
+  - **Definition:** A BDC is a type of closed-end fund that provides capital to small and middle-market companies. BDCs are designed to help these companies grow by providing funding and support.
+  
+- **Characteristics:**
+  - **Regulation:** BDCs are regulated by the Investment Company Act of 1940 and are subject to the same rules and regulations as mutual funds and other investment companies.
+  - **Investment Focus:** They typically invest in equity and debt of private companies or thinly traded public companies.
+  - **Income Distribution:** BDCs are required to distribute at least 90% of their taxable income to shareholders in the form of dividends, avoiding corporate income tax at the federal level.
+  - **Liquidity:** Shares of BDCs are traded on major stock exchanges, providing liquidity similar to other publicly traded stocks.
+  - **Leverage:** BDCs often use leverage to enhance returns, but this can also increase risk.
+  - **Management Fees:** They may charge management and incentive fees, which can affect overall returns for investors.
+  - **Transparency:** BDCs are required to provide detailed financial reports and disclosures to investors, ensuring transparency.

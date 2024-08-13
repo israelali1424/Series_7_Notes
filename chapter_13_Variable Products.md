@@ -89,6 +89,8 @@
 - Knowledge of tax benefits and potential surrender charges critical for advising clients.
 
 ### B. Suitability of Investments
+### 0, Fixws Aunnities 
+A fixed annuity is a contract with an insurance company which provides a regular stream of fixed payments to the investor (annuitant). In the face of inflation, these payments will represent less purchasing power for the investor, thus making them relatively unattractive in this scenario. The other products listed here will keep pace with inflation and provide the necessary cushion that an investor may be seeking.
 
 #### 1. Variable Annuities
 - Appropriate for specific needs like lifetime income but unsuitable for those needing liquidity.
@@ -227,3 +229,21 @@ Understanding these concepts can help ensure appropriate recommendations and com
 
 **Life Insurcance medical underwriting** 
 Life insurance company profitability depends on accurately assessing how long appliants can be expected to live, which is mainly a function of their health, medical histories and lifestyle habits (especially smoking). The process through which companies acquire and evaluate this information is called medical underwriting. It determines the rating class they can offer, which in turn sets the policy cost (premium). In some cases, the company may reject the applicant due to poor health.
+
+# IRS 1035 Exchange
+
+## Permitted Transfers
+There are only three permitted transfers under IRS 1035 exchange:
+- **Annuity to Annuity**
+- **Life Insurance to Life Insurance**
+- **Life Insurance Cash Value to Annuity**
+
+## Not Permitted Transfers
+- The IRS does not allow for a 1035 exchange from a tax-deferred annuity to any type of life insurance policy.
+
+
+A penalty of 10% applies on withdrawals prior to age 59 1/2 in addition to the tax that applies to the contract gains. The gains in the contract are taxed as ordinary income.
+
+
+Lump sum withdrawals from nonqualified variable annuities are taxed on a LIFO (last in, first out) basis. Earnings are considered the last in, and are fully taxed as ordinary income when withdrawn. In this situation the $50,000 of earnings will be taxed as ordinary income, and $10,000 will be a tax free return of principal.
+

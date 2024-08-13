@@ -90,7 +90,8 @@ C. Suitability:
 2.  Short Straddle:
     - Speculate on low volatility (flat market)
     - Used to generate income when investor expects little price movement
-
+Long straddles have two breakevens, the strike price plus total premium and
+strike price minus total premium
 IV. Analyzing Spreads
 
 A. Steps:
@@ -514,6 +515,8 @@ Loan value refers to the amount of money a broker-dealer can lend to a customer 
 
 - **Standard Margin for Stocks**:
   - Broker-dealer can lend up to 50% of the purchase amount of a stock (Regulation T).
+  
+  Combined equity is the assets of the account (long market value + credit register) minus the liabilities of the account (short market value + debit register). Therefore, LMV + CR – SMV – DR equals combined equity.
 
 ### Example Calculation: Required Cash Deposit for Options Purchase
 
@@ -729,6 +732,8 @@ Characteristics:
 - Profitable when Coca-Cola stock price < $57 or > $73
 - Short Straddle: Sell the same options, profitable when stock price is between $57 and $73
 
+## butterfly spread##
+A butterfly spread is created using four options contracts with three different strike prices and one expiration. The strategy may be employed by an options trader who anticipates a stable market for the underlying security.
 ## 3. Combination
 
 A combination is similar to a straddle but with different strike prices.

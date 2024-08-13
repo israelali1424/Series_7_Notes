@@ -41,3 +41,15 @@ It seems to be asking for the third item, that the law is able to make relevant 
 
 **QIB**
 To be a QIB, an institution must control a securities portfolio of at least $100 million on a discretionary basis. Broker-dealers with securities portfolios of at least $10 million also are considered QIBs. All investors in a Rule 144A offering must be QIBs.
+
+Sure! Here are the condensed notes:
+
+Records related to a Regulation D (private placement) offering must be maintained for three years from date of final use.
+
+In a Regulation D 506 deal in which the
+securities are publicly advertised, there
+can be an unlimited number of
+accredited, but zero non-accredited
+investors. If there was no public
+advertising, then there could have also
+been 35 non-accredited investors.
