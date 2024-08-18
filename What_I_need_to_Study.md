@@ -16,3 +16,9 @@ Chapter 15  oprtions hedgeing
 
 What is a monte Carlo Simulation 
 The Monte Carlo simulation allows an investor to see the various possible outcomes that may occur under a wide range of different economic and market conditions.
+
+Margin 
+Muni bond offers
+Take down for IPO
+ Bond adder 
+ Option straddle credt and debit sprrd 

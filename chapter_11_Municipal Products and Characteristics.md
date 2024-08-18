@@ -111,3 +111,25 @@ By understanding these concepts, candidates can effectively answer questions rel
 - **Duration:**
   - **Definition:** A measurement of how long it will take for an investor to receive back their cash flows from a bond.
   - **Zero-Coupon Bonds:** Have a duration equal to their maturity. This is because the investor does not receive any interest payments until the bond's maturity date.
+
+The flow of funds is critical information for analysis of revenue bonds. Analysis of GO bonds requires scrutiny of the debt statement which includes overlapping debt for which the municipality is responsible. Analysts will compare ratios to evaluate the financial health of the municipality, such as the net overall debt to assessed valuation ratio which compares the value of outstanding municipal bond issues to assessed property values.
+
+Interest on municipal bonds is generally higher than US Government bonds because munis are considered less safe than government bonds. The interest payments on municipal bonds do not fluctuate; they are fixed at issue. If the interest on an outstanding bond is more than the coupon for similar new issues, the outstanding bond will trade at a premium; if less, the bond will trade at a discount. The interest on municipal bonds may be exempt if the bondholder lives in the state of issue only.
+
+1. Certificate of Participation (COP):
+Definition: A Certificate of Participation is a type of financing where an investor receives a share of the lease revenues from a specific project rather than a bond backed by the issuing municipality’s full faith and credit.
+How It Works: Instead of issuing bonds to raise funds for a project, a government entity enters into a lease agreement and issues COPs. Investors who buy COPs are entitled to a portion of the lease payments made by the government entity.
+Use: COPs are often used to finance public projects like schools, prisons, or other municipal facilities without needing voter approval, as would be required for traditional municipal bonds.
+2. Double-Barreled Bond:
+Definition: A double-barreled bond is a type of municipal bond that is secured by two sources of revenue.
+How It Works: These bonds are backed both by the general taxing power of the issuing municipality (general obligation) and by revenues from a specific project (such as tolls from a highway or fees from a utility).
+Use: The dual backing makes double-barreled bonds more secure and attractive to investors, as they have a reduced risk of default due to the two revenue streams.
+3. Industrial Development Revenue Bond (IDRB):
+Definition: An Industrial Development Revenue Bond is a type of municipal bond issued by a government entity to fund the construction or improvement of a facility for private use, typically by a corporation.
+How It Works: The bond is secured by the lease agreement between the issuing municipality and the corporation that will use the facility. The corporation is responsible for making lease payments, which are used to pay the interest and principal on the bonds.
+Use: These bonds are often issued to encourage economic development and job creation within the municipality. The interest income from these bonds is usually exempt from federal income taxes.
+4. Revenue Anticipation Note (RAN):
+Definition: A Revenue Anticipation Note is a short-term debt instrument issued by a municipality, typically with a maturity of one year or less.
+How It Works: The purpose of a RAN is to provide the municipality with liquidity in anticipation of future revenue. The note is repaid once the anticipated revenue (such as taxes, grants, or other income) is received.
+Use: RANs are commonly used to manage cash flow issues, allowing municipalities to cover expenses while waiting for revenue to come in.
+These different types of bonds and securities are designed to meet various financing needs of municipalities and corporations, providing investors with a range of options based on their risk tolerance and investment goals.

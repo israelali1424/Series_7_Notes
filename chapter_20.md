@@ -385,3 +385,7 @@ SMA does not represent cash available in the account but rather the buying power
 ### Summary:
 - **SMA** represents the available line of credit in a margin account from excess equity.
 - When a client pays for a purchase in full in a new margin account, no initial SMA is created since there is no margin loan or excess equity involved.
+
+
+# Long Margin Account (LMV-DR) = EQ 
+# Short Margin Account (CR -SMV = EQ )

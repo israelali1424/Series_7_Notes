@@ -176,3 +176,20 @@ Notes made all by chatgpt
   - **Purpose:** Provides a continuous stream of funds from maturing bonds.
   - **Reinvestment:** Cash received from maturing bonds can be reinvested in new bonds at current interest rates.
   - **Credit Risk:** This structure alleviates credit risk concerns, as only a portion of the overall portfolio is exposed to the risk of default from any single issuer.
+
+
+- **Bond Ladder:**
+  - **Purpose:** Suitable for investors looking to minimize interest rate risk and increase liquidity in their portfolio.
+  
+  - **Structure:**
+    - **Maturity Dates:** Involves purchasing bonds with different maturity dates, such that each bond matures at a different time (e.g., annually).
+    - **Even Spacing:** Typically, maturities are evenly spaced to ensure that bonds mature at regular intervals.
+    - **Reinvestment:** Proceeds from maturing bonds are reinvested in new bonds at the current interest rate, maintaining the ladder's structure.
+
+  - **Liquidity Considerations:**
+    - **Regular Intervals:** The regular maturity intervals provide a continuous stream of funds, enhancing liquidity.
+    - **Tighter Structure:** The tighter the maturity structure (i.e., more frequent maturities), the more liquidity the investor will have.
+
+  - **Benefits:**
+    - **Interest Rate Risk:** Reduces the impact of interest rate changes since bonds mature at different times.
+    - **Cash Flow Management:** Provides predictable cash flows and opportunities to reinvest at prevailing interest rates.

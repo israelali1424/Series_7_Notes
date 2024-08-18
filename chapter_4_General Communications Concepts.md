@@ -70,3 +70,5 @@ The three principles that apply to communication regarding variable products inc
 
 
  At least 40% of a mutual fund?s board of directors must be independent ? meaning that they do not have significant business relationships with the fund.
+
+ Websites are considered retail communication and are subject to the same rules as all over forms of retail communication.

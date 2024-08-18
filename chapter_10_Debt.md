@@ -73,3 +73,11 @@ A repurchase agreement, commonly known as a "repo," is a form of short-term borr
   - **Principal Protection:** Offers protection of the principal amount invested.
   - **Payouts:** Based on the performance of an underlying security or index.
   - **Credit Quality:** Payouts also depend on the credit quality of the issuer.
+
+
+The conversion price for a bond is found by taking par value and dividing it by the conversion ratio. $1,000 / 40 shares = $25
+
+AIR Aunnites 
+
+102 ¾ means 102.75. Therefore, the municipal bond is trading at 102.75% of par. 102.75% x $1000 par = $1027.50
+Note: only TREASURIES are quoted as 1/32, so you will not need to multiply ¾ by 1/32.

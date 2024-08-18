@@ -254,3 +254,11 @@ An Employee Stock Ownership Plan (ESOP) is a program that provides a company's w
    - Withheld amount becomes tax credit for next year
 
 5. Funds can be rolled back into a new qualified corporate plan if all funds are pre-tax
+
+
+- **SEP IRAs (Simplified Employee Pension Individual Retirement Accounts):**
+  - **Eligibility:** A business of any size, including self-employed individuals, can establish a SEP IRA.
+  - **Purpose:** SEP IRAs are set up by employers to make contributions towards employees' retirement.
+  - **Advantages for Small Businesses:** 
+    - **Ease of Setup:** SEP IRAs are very easy to establish and maintain.
+    - **Flexibility:** They are preferred by small businesses due to their simplicity and administrative efficiency.

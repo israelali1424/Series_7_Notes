@@ -1048,3 +1048,16 @@ Also known as a bear call spread or short call spread.
 - Sell 1 XYZ 50 call for $5
 - Buy 1 XYZ 55 ca
 
+
+- **Writer of a Straddle:**
+  - **Belief:** The writer of a straddle believes that the price of the underlying security will remain relatively stable or neutral in the near term.
+  
+  - **Strategy:**
+    - **Components:** Involves selling both a call option and a put option with the same strike price and expiration date.
+    - **Objective:** The goal is to collect premiums from both options, betting that the price of the underlying security will not move significantly in either direction.
+  
+  - **Risk and Reward:**
+    - **Profit Potential:** Limited to the total premiums received from selling the options.
+    - **Risk:** Potentially high if the underlying security’s price moves significantly in either direction, as losses can be substantial if the price moves far away from the strike price.
+
+  - **Ideal Scenario:** The strategy is most profitable if the underlying security’s price remains close to the strike price, as both options would expire worthless and the writer keeps the premiums received.

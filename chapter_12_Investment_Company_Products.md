@@ -148,3 +148,5 @@ may not be combined with the
 holdings of the three existing
 funds for breakpoint
 considerations.
+
+Equity UITs issue as many units as necessary during their IPO, while bond UITs issue a fixed number of units during their IPO, while Both bond and equity trusts often pay monthly dividends.

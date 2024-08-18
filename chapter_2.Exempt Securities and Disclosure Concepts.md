@@ -53,3 +53,8 @@ accredited, but zero non-accredited
 investors. If there was no public
 advertising, then there could have also
 been 35 non-accredited investors.
+
+The limit on control stock sales in a three-month period is the greater of 1% of outstanding shares or average weekly trading volume over the prior four weeks. In this case, it is the greater of 10,000 shares (outstanding) or 20,000 shares (volume). However, if the stock were traded on OTC Bulletin Board or Pink, only outstanding shares (not volume) would be considered and the limit would be 10,000 shares.
+
+
+Private placements have several advantages over public offerings. For example, they can be brought to market faster with less regulatory red tape and legal cost, and they do not require registration statements or prospectuses. A major disadvantage is an increased cost of capital. With vast numbers of prospective investors in the public market, issuers can price their securities more competitively.
