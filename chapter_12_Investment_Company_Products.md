@@ -150,3 +150,11 @@ funds for breakpoint
 considerations.
 
 Equity UITs issue as many units as necessary during their IPO, while bond UITs issue a fixed number of units during their IPO, while Both bond and equity trusts often pay monthly dividends.
+
+
+POP = NAV/(100% - SC%) = $7.82/.92 =$8.50
+
+SC = POP = NAV = $8.50 - $7.82 = $0.68
+
+
+A mutual fund is classified as diversified if it follows the "75-5-10" rule. 75% of its total assets must be invested in the stock of other companies; it must own no more than 10% of the outstanding voting stock of a single issuer; and it can invest no more than 5% of its assets in the outstanding stock of a target company. Mutual funds can only issue common shares. They may be permitted to use margin if they meet certain financial and disclosure requirements.

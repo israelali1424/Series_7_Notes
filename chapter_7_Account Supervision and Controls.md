@@ -31,3 +31,5 @@ V. Other Key Points
     - Efforts to reduce financial exploitation of senior investors
     - Temporary holds allowed on disbursements and transactions for suspected exploitation
     - Firm must notify relevant parties after implementing temporary hold
+
+    When suspicious activity is suspected, a firm must contact the account owner, any persons authorized to trade the account, and the trusted contact within 2 business days of placing the hold. It may hold disbursements for up to 15 days from the day the hold was placed. The firm cannot hold orders Â– only disbursements may be held.

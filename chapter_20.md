@@ -389,3 +389,5 @@ SMA does not represent cash available in the account but rather the buying power
 
 # Long Margin Account (LMV-DR) = EQ 
 # Short Margin Account (CR -SMV = EQ )
+
+To meet a margin call, an investor can deposit cash equal to the margin call or deposit securities equal to 4/3 times the margin call amount.

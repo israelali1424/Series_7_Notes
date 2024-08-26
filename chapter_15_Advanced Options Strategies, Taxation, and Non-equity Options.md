@@ -1061,3 +1061,59 @@ Also known as a bear call spread or short call spread.
     - **Risk:** Potentially high if the underlying security’s price moves significantly in either direction, as losses can be substantial if the price moves far away from the strike price.
 
   - **Ideal Scenario:** The strategy is most profitable if the underlying security’s price remains close to the strike price, as both options would expire worthless and the writer keeps the premiums received.
+
+
+### Short Combination
+- **Definition**: Involves selling both a call and a put option on the same underlying asset with different strike prices and/or expiration dates.
+- **Objective**: Profit from the stability or slight movement of the underlying asset. The maximum profit is the total premium received from selling the options, and the potential loss is theoretically unlimited.
+- **Example**: Selling an ABC April 55 Put and an April 60 Call.
+
+### Long Combination
+- **Definition**: Involves buying both a call and a put option on the same underlying asset with different strike prices and/or expiration dates.
+- **Objective**: Benefit from significant movements in the underlying asset’s price, either up or down. The maximum loss is the total premium paid for the options.
+- **Example**: Buying an ABC April 55 Put and an April 60 Call.
+
+### Long Straddle
+- **Definition**: Involves buying a call and a put option on the same underlying asset with the same strike price and expiration date.
+- **Objective**: Profit from large movements in the underlying asset’s price in either direction. The potential loss is limited to the total premium paid for the options.
+- **Example**: Buying an ABC April 55 Call and an April 55 Put.
+
+### Short Straddle
+- **Definition**: Involves selling a call and a put option on the same underlying asset with the same strike price and expiration date.
+- **Objective**: Profit from minimal movement in the underlying asset’s price. The maximum profit is the total premium received from selling the options, and the potential loss is theoretically unlimited.
+- **Example**: Selling an ABC April 55 Call and an April 55 Put.
+
+
+
+To determine the breakeven point for this options position, follow these steps:
+
+1. **Calculate the Net Premium Paid**:
+   - **Sell 1 XYZ Nov 55 Put** for 6.5 (receive premium).
+   - **Buy 1 XYZ Nov 45 Put** for 3.5 (pay premium).
+   - Net Premium Received = Premium Received - Premium Paid
+   \[
+   \text{Net Premium} = 6.5 - 3.5 = 3.0
+   \]
+
+2. **Determine the Breakeven Point**:
+   - The breakeven point for a put spread is found by subtracting the net premium received from the strike price of the higher strike put (the put option that was sold).
+
+   For this position:
+   - Higher Strike Put (sold) = 55
+   - Net Premium Received = 3.0
+   - Breakeven Point = Strike Price - Net Premium Received
+   \[
+   \text{Breakeven Point} = 55 - 3.0 = 52.0
+   \]
+
+**Conclusion**: The breakeven point for this options position is **52**.
+
+So, the correct answer is **B) 52**.
+
+##Protective Put Example
+- **Elise** thinks the price of a company's stock called **DEF** will go down.
+- She **borrows** 100 shares of DEF and **sells them** for $86 each. This is called **"short selling."**
+- To protect herself just in case the stock goes up instead of down, she also **buys a call option**. This means she has the right to buy the stock back at $95 if she needs to.
+- She pays **$3 per share** for this protection.
+- To not lose any money, Elise needs to **make back** the $3 per share she spent on protection.
+- So, if the stock price goes down to **$83** ($86 - $3), Elise will not lose or gain money. This is called her **"breakeven"**.

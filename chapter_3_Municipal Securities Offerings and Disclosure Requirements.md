@@ -61,3 +61,6 @@ The date of sale in a competitive offering is the date on which all bids for the
 ### Summary:
 
 - A **qualified legal opinion** indicates potential legal uncertainties with a municipal bond, which must be disclosed to investors and may affect the bond's marketability and perceived risk.
+
+
+Competitive underwritings are initiated by the official notice of sale which invites interested firms to submit sealed bids, which include the underwriting scale. Issuers generally choose the winning bid based on the lowest net interest cost.

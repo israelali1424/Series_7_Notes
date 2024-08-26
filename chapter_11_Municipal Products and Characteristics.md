@@ -133,3 +133,6 @@ Definition: A Revenue Anticipation Note is a short-term debt instrument issued b
 How It Works: The purpose of a RAN is to provide the municipality with liquidity in anticipation of future revenue. The note is repaid once the anticipated revenue (such as taxes, grants, or other income) is received.
 Use: RANs are commonly used to manage cash flow issues, allowing municipalities to cover expenses while waiting for revenue to come in.
 These different types of bonds and securities are designed to meet various financing needs of municipalities and corporations, providing investors with a range of options based on their risk tolerance and investment goals.
+
+
+The price of a variable rate bond remains relatively stable because the interest rate adjusts to prevailing conditions. As the name implies, the rate of interest paid will vary over the life of the bond. The amount of interest is tied to an underlying index, such as the rate on Treasury Bills. Lenders take on the interest rate risk because the interest payments they receive are subject to fluctuation.

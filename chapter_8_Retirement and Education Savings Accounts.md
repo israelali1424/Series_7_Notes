@@ -262,3 +262,4 @@ An Employee Stock Ownership Plan (ESOP) is a program that provides a company's w
   - **Advantages for Small Businesses:** 
     - **Ease of Setup:** SEP IRAs are very easy to establish and maintain.
     - **Flexibility:** They are preferred by small businesses due to their simplicity and administrative efficiency.
+A non-spouse beneficiary who receives distributions from an IRA is required to pay income tax on the distributions on the same basis that the owner would have done, had he/she lived. Tax basis in any non-deductible contributions carries over to the beneficiary.

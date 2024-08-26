@@ -58,3 +58,5 @@ The limit on control stock sales in a three-month period is the greater of 1% of
 
 
 Private placements have several advantages over public offerings. For example, they can be brought to market faster with less regulatory red tape and legal cost, and they do not require registration statements or prospectuses. A major disadvantage is an increased cost of capital. With vast numbers of prospective investors in the public market, issuers can price their securities more competitively.
+
+current yield of a stock 

@@ -22,3 +22,11 @@ Muni bond offers
 Take down for IPO
  Bond adder 
  Option straddle credt and debit sprrd 
+
+ 1035 exchange
+Put on the cheat shhet 
+ POP = NAV/(100% - SC%) = $7.82/.92 =$8.50
+
+SC = POP = NAV = $8.50 - $7.82 = $0.68
+
+Tax quilnet yield 

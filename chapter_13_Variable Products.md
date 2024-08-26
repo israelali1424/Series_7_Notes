@@ -247,3 +247,27 @@ A penalty of 10% applies on withdrawals prior to age 59 1/2 in addition to the t
 
 Lump sum withdrawals from nonqualified variable annuities are taxed on a LIFO (last in, first out) basis. Earnings are considered the last in, and are fully taxed as ordinary income when withdrawn. In this situation the $50,000 of earnings will be taxed as ordinary income, and $10,000 will be a tax free return of principal.
 
+
+
+One of the factors used to determine whether a 1035 exchange may be appropriate for an investor is the timing of any previous such exchanges. It is typically considered inappropriate for an investor to effect a 1035 exchange when a prior such transaction was conducted:
+
+**B) within the past 36 months**
+
+**Explanation**:
+
+- **A) At least 36 months ago**: This is generally not a restriction; exchanges made at least 36 months ago are usually acceptable.
+
+- **B) Within the past 36 months**: Many insurance companies and financial professionals consider it inappropriate to perform a 1035 exchange if the previous exchange occurred within the past 36 months due to potential tax implications, fees, or other considerations.
+
+- **C) Within the past 12 months**: While this may be restrictive, the typical guideline is the past 36 months.
+
+- **D) Four years ago**: A 1035 exchange conducted four years ago is generally outside the typical restriction period.
+
+**Conclusion**: The correct answer is **B) within the past 36 months**.
+
+
+- **Fixed Annuities**: Insurer assumes investment risk; may not keep pace with inflation (purchasing power risk).
+- **Variable Annuities**: Investor assumes investment risk.
+- **Common Features**: Both guarantee lifetime payments and have fixed administrative expenses.
+
+Dividend distributions paid to owners of life insurance policy are considered a return of premium and are not taxable.
