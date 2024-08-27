@@ -223,3 +223,6 @@ For Collateralized Mortgage Obligations (CMO):
   - **Leverage:** BDCs often use leverage to enhance returns, but this can also increase risk.
   - **Management Fees:** They may charge management and incentive fees, which can affect overall returns for investors.
   - **Transparency:** BDCs are required to provide detailed financial reports and disclosures to investors, ensuring transparency.
+
+
+To qualify for REIT tax status, a corporation must have at least 100 shareholders by the second taxable year. It also must meet a 5/50 test for shareholder ownership, with five or fewer shareholders not owning more than 50% of its stock during the last half of the taxable year.

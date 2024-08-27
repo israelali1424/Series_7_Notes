@@ -30,3 +30,12 @@ IV. Customer Account Verification
      B. Periodic re-verification every 36 months to confirm information is up-to-date
 
 [End of Notes]
+
+
+
+There are three thresholds that define
+"institution" under relevant Series 79
+rules::
+Reg D Accredited: Institution >$5M
+FINRA Suitability: Institution > $50M
+QIB and 13F: Institution >$100M

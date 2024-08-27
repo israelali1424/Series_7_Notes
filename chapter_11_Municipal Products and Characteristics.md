@@ -136,3 +136,10 @@ These different types of bonds and securities are designed to meet various finan
 
 
 The price of a variable rate bond remains relatively stable because the interest rate adjusts to prevailing conditions. As the name implies, the rate of interest paid will vary over the life of the bond. The amount of interest is tied to an underlying index, such as the rate on Treasury Bills. Lenders take on the interest rate risk because the interest payments they receive are subject to fluctuation.
+
+11.8
+
+To solve, calculate the tax equivalent yield using the formula: Tax Equivalent Yield = Tax Free Rate/(1 – Tax Rate) = 4/.75 = 5.33%An investment with taxable interest must yield 5.33% to equal the tax free yield of 4%.
+
+Tax Equivalent Yield = Tax Free Rate/(1 – Tax Rate) = 4/.75 = 5.33
+After-Tax Yield=Taxable Yield×(1−Tax Rate)

@@ -30,3 +30,7 @@ Put on the cheat shhet
 SC = POP = NAV = $8.50 - $7.82 = $0.68
 
 Tax quilnet yield 
+
+Final Study 
+Go vs Reveuenbe bonds
+tax equivalent yield
